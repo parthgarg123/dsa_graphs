@@ -1,0 +1,11 @@
+*.exe
+*.o
+*.a
+*.so
+*.out
+.vscode/
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.pdb
+*.obj
